@@ -2,6 +2,7 @@
 title: Contact information
 author: Johannes Nauta
 date: 2023-11-01
+draft: false
 ---
 
 # Contact information
