@@ -1,7 +1,7 @@
 ---
 title: Contact information
 author: Johannes Nauta
-date: 2023-11-01
+date: '2023-01-11'
 draft: false
 ---
 

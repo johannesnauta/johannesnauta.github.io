@@ -1,7 +1,7 @@
 ---
-title: "Curriculum Vitae"
-author: "Johannes Nauta"
-date: 2022-09-01
+title: Curriculum Vitae
+author: Johannes Nauta
+date: '2022-09-01'
 draft: false
 ---
 

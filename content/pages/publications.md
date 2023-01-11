@@ -1,7 +1,7 @@
 ---
-title: "Publications"
-author: "Johannes Nauta"
-date: 2023-01-11
+title: Publications
+author: Johannes Nauta
+date: '2023-01-11'
 draft: false
 ---
 
