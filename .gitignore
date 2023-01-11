@@ -1,3 +1,4 @@
+themes/hugo-classic/exampleSite/*
 /hugo
 docs/public*
 /.idea
@@ -27,4 +28,3 @@ resources/sunset.jpg
 vendor
 
 .hugo_build.lock
-
