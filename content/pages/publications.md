@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 author: "Johannes Nauta"
+date: 2023-01-11
 draft: false
-date: 2023-11-01
 ---
 
 # List of publications
@@ -83,5 +83,3 @@ date: 2023-11-01
     arXiv preprint (2019).
     </a>
   </p></div>
-
-
