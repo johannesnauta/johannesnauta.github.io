@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://johannesnauta.github.io"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -51,8 +51,8 @@ custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
 footer = """
   [Twitter](https://twitter.com/johannes_nauta) |
-  [Github](https://github.com/github-jnauta) |
-  [Keybase](https://keybase.io/jnautahan)
+  [Github](https://github.com/johannesnauta) |
+  [Keybase](https://keybase.io/johannesnauta)
 
   \n (Theme built with [Hugo](https://gohugo.io/) using \
   the [Hugo-classic](https://themes.gohugo.io/themes/hugo-classic/) made by
