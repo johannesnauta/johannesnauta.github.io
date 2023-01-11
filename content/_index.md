@@ -24,6 +24,7 @@ I intend to continue an interdisciplinary approach to complex systems, with spec
 For more information on my research interests, please see [`~/research`](research).
 
 #### Current position _(as of January 1st, 2023)_
+Postdoctoral researcher, Dept. of Physics, University of Padua, Italy
 
 ---
 
