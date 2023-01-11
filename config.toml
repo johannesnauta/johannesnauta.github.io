@@ -50,9 +50,10 @@ post = "/post/:year/:month/:day/:slug/"
 custom_css = ["css/theme-override.css"]
 description = "A simple, minimal blog for those who love text."
 footer = """
+  *UNDER CONSTRUCTION* |
   [Twitter](https://twitter.com/johannes_nauta) |
   [Github](https://github.com/johannesnauta) |
-  [Keybase](https://keybase.io/johannesnauta)
+  [Keybase](https://keybase.io/jnauta)
 
   \n (Theme built with [Hugo](https://gohugo.io/) using \
   the [Hugo-classic](https://themes.gohugo.io/themes/hugo-classic/) made by

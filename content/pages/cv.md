@@ -1,7 +1,8 @@
 ---
 title: "Curriculum Vitae"
 author: "Johannes Nauta"
-date: 2022-09-27T14:52:49+02:00
+date: 2023-01-11
 draft: false
 ---
 
+:construction: (UNDER CONSTRUCTION) :construction:
