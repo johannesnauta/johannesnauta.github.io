@@ -11,4 +11,4 @@
 ##### Adding specific/new content
 
 #### Overriding CSS
-The theme contains css in `themes/hugo-classic/
+The theme contains css in `themes/hugo-classic/`

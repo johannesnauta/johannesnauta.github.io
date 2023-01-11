@@ -1,0 +1,9 @@
+/* Override things provided in /themes/hugo-classic/static/css/ */
+
+footer { font-size: 80%; }
+
+body {
+    line-height: 1.1em;
+    text-align: justify;
+    hyphens: auto;
+}

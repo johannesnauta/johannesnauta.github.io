@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="content-wrapper">
+  <style>
+    a.publication {
+        color: #add8e6;
+        font-weight: normal;
+    }
+  </style>
+  <main>
+    {{ .Content }}
+    <a href="/"> >> Home</a>
+  </main>
+</div>
+{{ partial "footer.html" . }}
+
+
