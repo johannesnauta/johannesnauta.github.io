@@ -15,9 +15,9 @@ description: "Personal webpage of Johannes Nauta."
 I am Johannes Nauta, and I am a postdoctoral researcher studying complex systems.
 I am currently a member of the Dept. of Physics of the University of Padua, Italy.
 
-Early 2021 I finished my Ph.D. thesis on computational models of optimal foraging patterns.
+Early 2022 I finished my Ph.D. thesis on computational models of optimal foraging patterns.
 During my Ph.D. I studied the effects of intra- and interspecific interactions of foragers and focused on how the characteristics of the interaction graph influences (group-) optimal froaging behavior.
-I additionally studied the influence of the spatial distribution of resources on the foraging efficiency.
+I additionally studied the influence of the spatial distribution of resources on the foraging efficiency population dynamics.
 The latter research is in line with my current interests in ecosystem function.
 I intend to pursue an interdisciplinary approach to complex (eco)systems with specific focus on the long-term stability of ecosystems.
 

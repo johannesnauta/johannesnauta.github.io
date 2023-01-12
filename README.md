@@ -4,7 +4,7 @@
 ### Installing the theme
 
 ### Hugo and Github Pages
-
+To use a custom domain we must create a file `static/CNAME` that only contains the CNAME of the custom domain (which, in this case, is www.johannesnauta.com). See: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 ### Website details
 
 #### Adding content
