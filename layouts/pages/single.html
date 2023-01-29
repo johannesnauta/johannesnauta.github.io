@@ -10,6 +10,11 @@
   <main>
     {{ .Content }}
     <a href="/"> >> Home</a>
+    {{ if .Params.toc }}
+    <aside>
+        {{ .TableOfContents }}
+    </aside>
+    {{ end }}
   </main>
 </div>
 

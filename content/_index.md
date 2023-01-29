@@ -6,7 +6,7 @@ description: "Personal webpage of Johannes Nauta."
 <img 
     id="photo" 
     width="250"
-    src="images/me.jpg" 
+    src="/images/me.jpg" 
     alt="Johannes Nauta"
     align="left"
     style="margin-right: 1rem">
