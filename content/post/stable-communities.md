@@ -19,12 +19,6 @@ I basically just ported his `R`-code to `Julia`.
 
 ---
 
-<pre><code>This is a code block.
-</code></pre>
-```
-This as well
-```
-
 Large ecological communities can often be captured in a matrix form.
 This means that the generalized Lotka-Volterra model for $n$ species can be written in a compact form:
 $$
