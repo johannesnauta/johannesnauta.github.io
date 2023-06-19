@@ -2,7 +2,6 @@
 title: Home
 description: "Personal webpage of Johannes Nauta."
 ---
-### :construction: (UNDER CONSTRUCTION) :construction:
 <img 
     id="photo" 
     width="250"
@@ -27,6 +26,7 @@ For more information on my research interests, please see [`~/research`](researc
 #### Current position _(as of January 1st, 2023)_
 Postdoctoral researcher, Dept. of Physics, University of Padua, Italy. \
 Member of the [CoMuNe Lab](https://twitter.com/comunelab) research group, lead by [Manlio De Domenico](https://manliodedomenico.com/).
+For more information on the other members of my lab, [please check out the short bio's of my colleagues](https://manliodedomenico.com/people.php).
 
 ---
 ### Interests
