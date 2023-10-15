@@ -1,0 +1,3 @@
+[submodule "content/curriculum-vitae"]
+	path = content/curriculum-vitae
+	url = git@github.com:johannesnauta/curriculum-vitae.git

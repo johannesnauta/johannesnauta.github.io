@@ -10,6 +10,13 @@ description: "Personal webpage of Johannes Nauta."
     align="left"
     style="margin-right: 1rem">
 
+<img 
+    id="photo" 
+    width="200"
+    src="/images/unipd-logo-white.png" 
+    alt="unipd logo"
+    align="right">
+    
 ## Welcome :earth_africa:
 I am Johannes Nauta, and I am a postdoctoral researcher studying complex systems.
 I am currently a member of the Dept. of Physics of the University of Padua, Italy.
