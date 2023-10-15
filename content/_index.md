@@ -9,35 +9,37 @@ description: "Personal webpage of Johannes Nauta."
     alt="Johannes Nauta"
     align="left"
     style="margin-right: 1rem">
-
+    
 <img 
-    id="photo" 
-    width="200"
+    id="photo"
     src="/images/unipd-logo-white.png" 
     alt="unipd logo"
-    align="right">
+    align="right"
+    style="width: 250px; height: 100px; object-fit: cover;"
+    style="margin-right: 1rem">
     
 ## Welcome :earth_africa:
-I am Johannes Nauta, and I am a postdoctoral researcher studying complex systems.
-I am currently a member of the Dept. of Physics of the University of Padua, Italy.
+I am Johannes Nauta, and I am currently a postdoctoral researcher studying networks and complex systems.
+I am working at the Dept. of Physics of the University of Padova in Italy.
 
 ### Current research
 My work aims to unravel how local (microscopic) feedback mechanisms influence global (meso- and macroscopic) dynamics of (meta)populations. 
-More specifically, I am developing general multi-scale models that define ecolical reaction-diffusion systems on networks. 
+More specifically, I am developing general multi-scale models that define ecological reaction-diffusion systems on networks. 
 These models show that long-term stability can emerge from local interactions, both between competing species (reaction) and between the nodes (diffusion).
 
 ### My trajectory
-Early 2022 I finished my Ph.D. thesis on computational models of optimal foraging patterns.
-During my Ph.D. I studied the effects of intra- and interspecific interactions of foragers and focused on how the characteristics of the interaction graph influences (group-) optimal froaging behavior.
-I additionally studied the influence of the spatial distribution of resources on the foraging efficiency population dynamics.
-The latter research is in line with my current interests in ecosystem function.
-I am pursuing an interdisciplinary approach to complex (eco)systems with specific focus on the long-term stability of ecosystems.
-
+After obtaining my bachelor and master degrees in Nijmegen, The Netherlands, I moved to Ghent, Belgium to do my Ph.D.
+Early 2022, I finished my Ph.D. thesis on computational models of optimal foraging patterns.
+I studied the effects of intra- and interspecific interactions of foragers and focused on how the characteristics of the interaction graph influences (group-) optimal foraging behavior.
+I additionally studied the influence of the spatial distribution of resources on the short-term foraging efficiency and the long-term population dynamics.
+The latter research is in line with my current interests in ecosystem stability and function.
+I am currently pursuing an interdisciplinary approach on the edges of ecology, microbiology, and statistical physics, in order to unravel the mysteries behind ecosystem function.
+More specifically, I would like to understand the mechanisms that facilitate long-term stability of ecosystems with many constituents.
 
 For more information on my research interests, please see [`~/research`](research).
 
 #### Current position _(as of January 1st, 2023)_
-Postdoctoral researcher, Dept. of Physics, University of Padua, Italy. \
+Postdoctoral researcher, Dept. of Physics, University of Padova, Italy. \
 Member of the [CoMuNe Lab](https://twitter.com/comunelab) research group, lead by [Manlio De Domenico](https://manliodedomenico.com/).
 For more information on the other members of my lab, [please check out the short bio's of my colleagues](https://manliodedomenico.com/people.php).
 
@@ -45,11 +47,12 @@ For more information on the other members of my lab, [please check out the short
 ### Interests
 - Complex systems
 - Population dynamics
-- Effects of perturbations on system stability
+- Random matrix theory
+- System stability
 
 ---
 ### Suggested reads
-The suggestions below are works that I personally find particularily interesting.
+The suggestions below are works that I personally find particularly interesting.
 They do **not** contain any personal work of which I am the first author.
 For a list of my personal publications, please see [`~/publications`](publications).
 

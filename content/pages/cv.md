@@ -5,24 +5,38 @@ date: '2022-09-01'
 draft: false
 ---
 
-:construction: (UNDER CONSTRUCTION) :construction:
+---
 
-:arrow_down: You can download my full CV here (last updated, October 15th 2023)
+:arrow_down: [You can download my full CV here.](/files/academic_cv_Nauta.pdf) (last updated, October 15th 2023)
+
+---
 
 ## Current position
 <img 
-    id="photo" 
-    width="130"
+    id="photo"
     src="/images/unipd-logo-white.png" 
     alt="unipd logo"
-    align="left">
+    align="left"
+    style="width: 220px; height: 80px; object-fit: cover;"
+    style="margin-right: 1rem">
 <b> Position: </b> Junior postdoc <br>
 <b> Location: </b> Dept. of Physics, University of Padova, Padova, Italy. <br>
 <b> Research group: </b> CoMuNe lab: research group for multilayer modeling and analysis of complex systems
 
-### Education
+<br>
 
-### Contributed talks
+### Education
+* 2017-2022 | <span style="color:MediumPurple">**Ph.D.**</span> in Computer Science Engineering, Ghent University<br>
+  * **Dissertation title**: _"The interplay between resource distribution and otpimal foraging behavior: from individuals to populations"_.<br>
+  * **Supervisors**: Pieter Simoens, [Yara Khaluf](https://www.yarakhaluf.net/)
+* 2015-2017 | <span style="color:MediumPurple">**M.Sc.**</span> in Physics and Astronomy, Radboud University<br>
+  * **Dissertation title**: _"On path integrals, trust regions, and Feynman diagrams"_.<br>
+  * **Minor track**: Neuroscience
+* 2011-2015 | <span style="color:MediumPurple">**B.Sc.**</span> in Physics and Astronomy, Radboud University<br>
+  * **Dissertation title**: _"Synaptic pruning in the ageing brain using Hopfield networks"_.<br>
+  * **Minor track**: Computation physics
+
+### Highlighted talks
 * <div class="talk"><p>
     <a href="https://italy.cssociety.org/index.php/2023/05/23/ccs-italy-conference-2023/"
     class="conference">

@@ -9,12 +9,20 @@ I am currently working on unveiling ecological mechanisms that facilitate the lo
 In particular, I want to know how organisms respond and adapt to changes in the environment and how these responses subsequently affect ecological network dynamics.
 
 ## Research projects
+<img 
+    id="photo" 
+    width="200"
+    src="/images/HFSP_horizontal_white.jpg" 
+    alt="unipd logo"
+    align="left"
+    style="margin-right: 1rem">
 I am currently a member of the consortium regarding the [HFSP Project on organism response to perturbations](https://www.hfsp.org/node/74702).
-Within the context of the project, I will be focusing on modeling the population dynamics of microbiomes under perturbations.
-I will implement efficient simulations (mostly in `Julia`) to explore the space of parameters that influences the community dynamics. 
-These explorations will then serve to define hypotheses to be tested empirically in the lab. 
+The project realizes a unique international collaboration that bridges ecology, evolution, microbiology, and statistical physics.
+Within the context of the project, I will be focusing on creating mathematical models that closely resemble population dynamics of microbiomes under the influence of perturbations.
+I will implement efficient simulations (mostly in `Julia`) to explore the space of parameters that influences community dynamics. 
 Furthermore, I will apply my vast experience with scientific computing to write a cohesive set of scripts that faciliate large computer simulations on high performance computer clusters. 
-This will make it easier for all members of this project to execute simulations and complex analyses, greatly enhancing the turnover rate of (simulation) experiments.
+This will facilitate all members of this project to execute simulations and complex analyses, greatly enhancing the turnover rate.
+
 
 ## Latest work
 <div class="references"><p>
