@@ -17,7 +17,9 @@ description: "Personal webpage of Johannes Nauta."
     align="right"
     style="width: 250px; height: 100px; object-fit: cover;"
     style="margin-right: 1rem">
-    
+
+> <small><em>"... and so we have science, to deduce about the gargantuan what we, with our infinitesimal faculties, will never sense."</em> --- [(Scott Aaronson)](https://www.scottaaronson.com/writings/bignumbers.html) </small>
+
 ## Welcome :earth_africa:
 I am Johannes Nauta, and I am currently a postdoctoral researcher studying networks and complex systems.
 I am working at the Dept. of Physics of the University of Padova in Italy.
