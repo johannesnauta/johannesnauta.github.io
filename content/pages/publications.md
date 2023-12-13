@@ -6,8 +6,12 @@ draft: false
 ---
 
 # List of publications
+
+[:mortar_board: Google Scholar profile](https://scholar.google.com/citations?user=Ae-RVSwAAAAJ&hl=e)
+
+---
 <font size="2">
-    >> note: my name is highlighted in <b>bold</b>.
+    >> note: my name is highlighted in <b>bold</b>.      
 </font>
 
 ---
