@@ -24,7 +24,15 @@ Furthermore, I will apply my vast experience with scientific computing to write 
 This will facilitate all members of this project to execute simulations and complex analyses, greatly enhancing the turnover rate.
 
 
-## Latest work
+## Latest works
+<div class="references"><p>
+    <a href="https://arxiv.org/pdf/2405.05390" class="publication">
+    J. Nauta and M. De Domenico (2024).
+    "<em>Topological conditions drive stability in meta-ecosystems</em>". 
+    </a>
+  <br>⤷ <small>We study the effect of dispersal on (linear) stability in meta-ecosystems. Dispersal takes place on a connected network with arbitrary degree distributions. Our work shows that there are three distinct features that underlie stability: edge density, tendency to triadic closure, and isolation. It further highlights that one cannot disregard properties of the dispersal network when studying stability of meta-ecosystems.</small>
+  </p></div>
+
 <div class="references"><p>
     <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2022.0103" class="publication">
     J. Nauta <i>et al.</i> (2022).

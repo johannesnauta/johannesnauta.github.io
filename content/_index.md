@@ -18,11 +18,17 @@ description: "Personal webpage of Johannes Nauta."
     style="width: 250px; height: 100px; object-fit: cover;"
     style="margin-right: 1rem">
 
-> <small><em>"... and so we have science, to deduce about the gargantuan what we, with our infinitesimal faculties, will never sense."</em> --- [(Scott Aaronson)](https://www.scottaaronson.com/writings/bignumbers.html) </small>
+>
+<small><em>"Those who are astonished by the simplicity of the solution are urged to meditate on the wonders of hindsight."</em> --- [(Ulanowich, 1995)](https://people.clas.ufl.edu/ulan/files/Lindeman.pdf) </small>
+
+<small><em>"... and so we have science, to deduce about the gargantuan what we, with our infinitesimal faculties, will never sense."</em> --- [(Scott Aaronson)](https://www.scottaaronson.com/writings/bignumbers.html) </small>
 
 ## Welcome :earth_africa:
-I am Johannes Nauta, and I am currently a postdoctoral researcher studying networks and complex systems.
-I am working at the Dept. of Physics of the University of Padova in Italy.
+My name is Johannes Nauta, and I am currently a postdoctoral researcher studying networks and complex systems at the Dept. of Physics of the University of Padova in Italy.
+</br>
+</br>
+</br>
+</br>
 
 ### Current research
 My work aims to unravel how local (microscopic) feedback mechanisms influence global (meso- and macroscopic) dynamics of (meta)populations. 
