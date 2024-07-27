@@ -49,6 +49,15 @@ draft: false
     </a>
   </p></div>
 
+## Preprints
+- <div class="references"><p>
+    <a href="https://arxiv.org/abs/2405.05390" class="publication">
+    <b>Johannes Nauta</b>, Manlio De Domenico.
+    "<em>Topological conditions drive stability in meta-ecosystems</em>".
+    (2024)
+    </a>
+  </p></div>
+
 ## Conference contributions
 - <div class="references"><p>
     <a href="https://doi.org/10.1007/978-3-030-60376-2_14" class="publication">
